@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="get_source"><![CDATA[Get Source >]]></string>
+    <string name="show_article">Show Article</string>
+    <string name="image">Image</string>
+    <string name="top_headlines">Indonesian Top Headlines </string>
+</resources>
